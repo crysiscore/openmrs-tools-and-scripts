@@ -2,6 +2,10 @@
 .Rhistory
 .Rapp.history
 
+# Exclude sql generated files
+.sql
+/*.sql
+
 # Session Data files
 .RData
 
